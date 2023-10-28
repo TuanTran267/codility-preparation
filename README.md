@@ -16,7 +16,7 @@ Before diving into the solutions and notes, make sure you have Python (or any ot
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/codility-preparation.git
+git clone https://github.com/TuanTran267/codility-preparation.git
 
 # Navigate to the project directory
 cd codility-preparation
